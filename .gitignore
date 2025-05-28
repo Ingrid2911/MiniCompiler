@@ -1,0 +1,42 @@
+# ========== Fisiere si foldere .NET ==========
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+*.log
+*.vs/
+*.dbmdl
+.vscode/
+
+# ========== Fisiere temporare ==========
+*.tmp
+*.temp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# ========== Fisiere generate ANTLR ==========
+*.tokens
+*.interp
+*.g4.generated/
+Generated/
+generated/
+gen/
+
+# ========== Alte setari personale ==========
+*.ncrunch*
+*.resharper*
+*.DotSettings.user
+.idea/
+
+# ========== Build-uri ==========
+*.apk
+*.aab
+*.msi
+*.nupkg
+*.zip

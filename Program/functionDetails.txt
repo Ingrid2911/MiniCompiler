@@ -1,0 +1,12 @@
+Functie: main
+- Tip retur: int
+- Este main: True
+- Este recursiva: False
+- Parametri:
+- Variabile locale:
+  - string myString = ""
+  - float myFloat = divideIntegers(myThirdVariable,myFirstVariable)
+- Structuri de control:
+  - for, linia 4
+  - if, linia 9
+
